@@ -1,0 +1,6 @@
+Devops Learning Journey
+-------------------------
+Name: Jayaram Gopi
+Day 1 Pratice
+
+Git and Github repository practice
