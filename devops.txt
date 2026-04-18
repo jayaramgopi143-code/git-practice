@@ -4,3 +4,8 @@ Name: Jayaram Gopi
 Day 1 Pratice
 
 Git and Github repository practice
+
+--------------------------
+
+Second update to repository
+Learning Git version control
