@@ -13,3 +13,5 @@ Learning Git version control
 -----------------------
 
 Added a git feature-updated branch to practice git and git hub under gitpractice directory
+
+i didnt understand initially, so practiced it in git feature-update branch for merge request
