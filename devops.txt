@@ -12,4 +12,4 @@ Learning Git version control
 
 -----------------------
 
-Added a feature-updated branch to practice git and git hub
+Added a git feature-updated branch to practice git and git hub under gitpractice directory
